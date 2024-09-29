@@ -1,4 +1,4 @@
-- <b>Linux Fundamentals</b>
+<b>Linux Fundamentals</b>
   - [Linux Fundamentals Part 1](https://github.com/Rowen-Robinson-II/osticket-prereqs)
   - [Linux Fundamentals Part 2](https://github.com/Rowen-Robinson-II/coming-soon)
   - [Linux Fundamentals Part 3](https://github.com/Rowen-Robinson-II/coming-soon)
