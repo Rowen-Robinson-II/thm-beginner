@@ -1,1 +1,4 @@
-# thm-beginner
+- <b>Complete Beginner Learning Path</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Rowen-Robinson-II/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Rowen-Robinson-II/coming-soon)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Rowen-Robinson-II/coming-soon)
