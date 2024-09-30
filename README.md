@@ -1,13 +1,8 @@
-<p align="center">
-
-
-  
-![completebeginner](https://github.com/user-attachments/assets/4c64b947-db6c-4b45-85ce-2ae132ab4727)
-
-
+<p align="center">  
+  <img width="498" alt="image" src="https://github.com/user-attachments/assets/77a46cf7-340a-4e9f-8e84-dd347edb49db">
 </p>
 
-<h1 align="center">Fully Detailed labs Coming Soon...</h1>
+<h1 align="center">TryHackMe Complete Beginner Learning Path</h1>
 
 <b>Linux Fundamentals</b>
   - [Linux Fundamentals Part 1](https://github.com/Rowen-Robinson-II/osticket-prereqs)
